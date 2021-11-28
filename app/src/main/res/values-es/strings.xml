@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mode_dianit</string>
+    <string name="Blau">Azul</string>
+    <string name="Fucsia">Fucsia</string>
+    <string name="Plata">Plata</string>
+    <string name="Gris">Gris</string>
+    <string name="Negre">Negro</string>
+    <string name="Vermell">Rojo</string>
+    <string name="Marró">Marron</string>
+    <string name="Taronja">Naranja</string>
+    <string name="Groc">Amarillo</string>
+    <string name="Oliva">Oliva</string>
+    <string name="Lima">Lima</string>
+    <string name="Verd">Verde</string>
+</resources>
